@@ -8,4 +8,4 @@ var cities2 = ["Bangalore", "pune", "Indore", "chennai", "Hyderbad"]
 
 
 
-/* in this i would like to discuss about the functionality that will return unmatching elements in when compared to two arrays
+/* in this i would like to discuss about the functionality that will return unmatching elements in when compared to two arrays*/
